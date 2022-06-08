@@ -45,6 +45,14 @@ header li {
   list-style: none;
 }
 
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+/* mettre à gauche */
+
 .menu-arrow {
   height: 340px;
 }
