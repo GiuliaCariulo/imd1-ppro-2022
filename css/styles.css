@@ -8,3 +8,9 @@ body {
   max-width: 375px;
   background-image: url(../img/texture.webp);
 }
+
+img {
+  width: 268px;
+  margin: auto;
+  display: block;
+}
