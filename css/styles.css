@@ -5,13 +5,13 @@
 }
 
 @font-face {
-  font-family: ITC Franklin Gothic Std;
+  font-family: 'ITC Franklin Gothic Std';
   src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-BkCp.woff2);
   font-weight: 400;
 }
 
 @font-face {
-  font-family: ITC Franklin Gothic Std;
+  font-family: 'ITC Franklin Gothic Std';
   src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-Demi.woff2);
   font-weight: 600;
 }
@@ -31,6 +31,12 @@ img {
   width: 268px;
   margin: auto;
   display: block;
+}
+
+header li {
+  font-family: ITC Franklin Gothic Std;
+  font-size: 24px;
+  text-decoration: none;
 }
 
 .arrow-menu {
