@@ -26,6 +26,7 @@ body {
   max-width: 375px;
   background-image: url(../img/texture.webp);
   color: #09392F;
+  padding: 55px;
 }
 
 img {
