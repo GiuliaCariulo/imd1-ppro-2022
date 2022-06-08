@@ -42,7 +42,7 @@ a {
 header li {
   font-family: ITC Franklin Gothic Std;
   font-size: 24px;
-  list-style: url('../img/chip.svg');
+  list-style: none;
 }
 
 .arrow-menu {
