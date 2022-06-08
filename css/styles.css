@@ -1,3 +1,21 @@
+@font-face {
+  font-family: 'Century Expanded LT Std';
+  src: url(../fonts/AnyConv.com__CenturyExpandedLTStd.woff2);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: ITC Franklin Gothic Std;
+  src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-BkCp.woff2);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: ITC Franklin Gothic Std;
+  src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-Demi.woff2);
+  font-weight: 600;
+}
+
 html {
   background-color: #09392F;
   scroll-behavior: smooth;
