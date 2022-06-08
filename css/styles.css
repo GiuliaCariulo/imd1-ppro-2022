@@ -14,3 +14,11 @@ img {
   margin: auto;
   display: block;
 }
+
+.arrow-menu {
+  height: 340px;
+}
+
+.button-shop img {
+  width: 20px;
+}
