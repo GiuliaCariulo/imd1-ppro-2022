@@ -177,3 +177,8 @@ footer a {
   font-size: 14px;
   margin: 0;
 }
+
+.contact {
+  border-left: 2px solid #09392F;
+  padding: 10px;
+}
