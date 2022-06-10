@@ -35,6 +35,15 @@ img {
   display: block;
 }
 
+.product img,
+.map img {
+  margin: 0;
+}
+
+.button-shop img {
+  width: 20px;
+}
+
 h1 {
   font-family: 'Century Expanded LT Std';
   font-weight: 400;
@@ -47,13 +56,14 @@ h2 {
   font-weight: 400;
   font-size: 20px;
   color: #AEA895;
-  margin: 50px 0 25px;
+  margin: 50px 0 15px;
 }
 
 h3 {
   font-size: 16px;
   font-family: 'ITC Franklin Gothic Std';
   font-weight: 400;
+  margin: 0;
 }
 
 a {
@@ -94,6 +104,23 @@ header li {
   margin: 0;
 }
 
-.button-shop img {
-  width: 20px;
+.button-shop p {
+  color: #AEA895;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 15px 10px;
+  margin: 0;
+}
+
+.button-shop-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #09392F;
+  margin-top: 20px;
+}
+
+.button-shop {
+  position: sticky;
+  bottom: 0;
+  right: 50%;
 }
