@@ -88,8 +88,11 @@ a {
   text-decoration: none;
 }
 
-.menu-list a {
+.menu-navigation a {
   font-weight: 600;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
 }
 
 p {
@@ -110,6 +113,7 @@ header li {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
   flex-wrap: nowrap;
 }
 /* mettre à gauche */
