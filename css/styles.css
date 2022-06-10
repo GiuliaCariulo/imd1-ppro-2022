@@ -127,3 +127,31 @@ header li {
   bottom: 0;
   right: 50%;
 }
+
+ul .element-1 {
+  list-style-image: url(../img/pin_1.svg);
+}
+
+ul .element-2 {
+  list-style-image: url(../img/pin_2.svg);
+}
+
+ul .element-3 {
+  list-style-image: url(../img/pin_3.svg);
+}
+
+ul .element-4 {
+  list-style-image: url(../img/pin_4.svg);
+}
+
+ul .element-5 {
+  list-style-image: url(../img/pin_5.svg);
+}
+
+li.element-1::marker,
+li.element-2::marker,
+li.element-3::marker,
+li.element-4::marker,
+li.element-5::marker {
+  font-size: 60px;
+}
