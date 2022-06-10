@@ -42,6 +42,16 @@ img {
   display: block;
 }
 
+figure {
+  margin: auto;
+}
+
+figcaption {
+  font-family: 'ITC Franklin Gothic Std';
+  font-size: 14px;
+  font-weight: 400;
+}
+
 .product img,
 .map img {
   margin: 0;
