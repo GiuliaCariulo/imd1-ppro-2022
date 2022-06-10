@@ -30,6 +30,12 @@ body {
   font-family: 'ITC Franklin Gothic Std';;
 }
 
+footer {
+  background-color: #AEA89550;
+  padding: 60px;
+  margin-top: 60px;
+}
+
 img {
   width: 268px;
   margin: 40px auto;
