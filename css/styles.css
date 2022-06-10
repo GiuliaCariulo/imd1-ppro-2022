@@ -65,6 +65,12 @@ h3 {
   margin: 0;
 }
 
+h4 {
+  font-family: 'Century Expanded LT Std';
+  font-weight: 400;
+  font-size: 16px;
+}
+
 h5 {
   font-size: 14px;
   font-weight: 600;
