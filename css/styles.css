@@ -165,3 +165,9 @@ li.element-4::marker,
 li.element-5::marker {
   font-size: 60px;
 }
+
+footer p,
+footer a {
+  font-size: 14px;
+  margin: 0;
+}
