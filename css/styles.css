@@ -55,7 +55,7 @@ figcaption {
 .top {
   width: 35px;
   opacity: 50%;
-  position: sticky;
+  position: fixed;
   right: 8px;
   bottom: 30px;
 }
