@@ -27,6 +27,7 @@ body {
   background-image: url(../img/texture.webp);
   color: #09392F;
   padding: 80px 53px 0;
+  font-family: 'ITC Franklin Gothic Std';;
 }
 
 img {
@@ -52,17 +53,14 @@ h1 {
 }
 
 h2 {
-  font-family: 'ITC Franklin Gothic Std';
   font-weight: 400;
   font-size: 20px;
   color: #AEA895;
   margin: 50px 0 15px;
 }
 
-h3,
-h5 {
+h3 {
   font-size: 16px;
-  font-family: 'ITC Franklin Gothic Std';
   font-weight: 400;
   margin: 0;
 }
@@ -83,7 +81,6 @@ a {
 }
 
 p {
-  font-family: 'ITC Franklin Gothic Std';
   font-size: 20px;
   font-weight: 400;
 }
@@ -93,7 +90,6 @@ strong {
 }
 
 header li {
-  font-family: 'ITC Franklin Gothic Std';
   font-size: 24px;
   list-style: none;
 }
