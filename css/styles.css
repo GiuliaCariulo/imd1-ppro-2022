@@ -52,6 +52,14 @@ figcaption {
   color: #AEA895;
 }
 
+.top {
+  width: 35px;
+  opacity: 50%;
+  position: sticky;
+  right: 8px;
+  bottom: 30px;
+}
+
 .product img,
 .map img {
   margin: 0;
