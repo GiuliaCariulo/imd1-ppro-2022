@@ -26,23 +26,43 @@ body {
   max-width: 375px;
   background-image: url(../img/texture.webp);
   color: #09392F;
-  padding: 55px;
+  padding: 80px 53px 0;
 }
 
 img {
   width: 268px;
-  margin: auto;
+  margin: 40px auto;
   display: block;
 }
 
 h1 {
   font-family: 'Century Expanded LT Std';
+  font-weight: 400;
   font-size: 24px;
+  margin-top: 100px;
+}
+
+h2 {
+  font-family: 'ITC Franklin Gothic Std';
+  font-weight: 400;
+  font-size: 20px;
+  color: #AEA895;
+  margin: 50px 0 25px;
+}
+
+h3 {
+  font-size: 16px;
+  font-family: 'ITC Franklin Gothic Std';
+  font-weight: 400;
 }
 
 a {
   color: #09392F;
   text-decoration: none;
+}
+
+.menu-list a {
+  font-weight: 600;
 }
 
 p {
@@ -71,6 +91,7 @@ header li {
 
 .menu-arrow {
   height: 340px;
+  margin: 0;
 }
 
 .button-shop img {
