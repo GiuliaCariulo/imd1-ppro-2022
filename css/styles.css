@@ -83,6 +83,14 @@ h5 {
   margin: 0;
 }
 
+h6 {
+  font-family: 'Century Expanded LT Std';
+  font-size: 16px;
+  font-weight: 400;
+  color: #AEA895;
+  margin: 0;
+}
+
 a {
   color: #09392F;
   text-decoration: none;
