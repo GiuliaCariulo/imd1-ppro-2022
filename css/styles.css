@@ -88,11 +88,9 @@ a {
   text-decoration: none;
 }
 
-.menu-navigation a {
+.menu a {
   font-weight: 600;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
+  margin: 0;
 }
 
 p {
@@ -108,19 +106,19 @@ header li {
   font-size: 24px;
   list-style: none;
 }
-
-.menu {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: nowrap;
-}
 /* mettre à gauche */
 
 .menu-arrow {
   height: 340px;
   margin: 0;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
 .button-shop p {
