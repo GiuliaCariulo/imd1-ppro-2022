@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Century Expanded LT Std';
-  src: url(../fonts/AnyConv.com__CenturyExpandedLTStd.woff2);
+  src: url('../fonts/centuryexpandedltstd.woff2') format('woff2');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'ITC Franklin Gothic Std';
-  src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-BkCp.woff2);
+  src: url('../fonts/itcfranklingothicstd-book.woff2') format('woff2');
   font-weight: 400;
 }
 
 @font-face {
   font-family: 'ITC Franklin Gothic Std';
-  src: url(../fonts/AnyConv.com__ITCFranklinGothicStd-Demi.woff2);
+  src: url('../fonts/itcfranklingothicstd-demi.woff2') format('woff2');
   font-weight: 600;
 }
 
@@ -27,7 +27,7 @@ body {
   background-image: url(../img/texture.webp);
   color: #09392F;
   padding: 80px 53px 0;
-  font-family: 'ITC Franklin Gothic Std';;
+  font-family: 'ITC Franklin Gothic Std';
 }
 
 footer {
@@ -107,7 +107,6 @@ header li {
   font-size: 24px;
   list-style: none;
 }
-/* mettre à gauche */
 
 .menu-arrow {
   height: 340px;
